@@ -1,0 +1,2 @@
+Data cleaning and data preparation is done 
+Data modeling is done using python
