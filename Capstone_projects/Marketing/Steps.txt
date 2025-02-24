@@ -1,0 +1,4 @@
+1.I opened tableau public and connected data source
+2.I created union between country code and data sheets
+3.I created geographical representation and charts.
+4.I made story from the charts and created dashboards
